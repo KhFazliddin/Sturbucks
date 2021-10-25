@@ -1,0 +1,51 @@
+body{
+    background: #D4EAE2;
+}
+.logo{
+    padding-top: 45px;
+    padding-left: 71px;
+}
+.header_main{
+    display: flex;
+    justify-content: space-between;
+}
+.links{
+    display: flex;
+flex-direction: row;
+padding: 0px;
+justify-content: space-between;
+}
+a{
+    padding-top: 60px;
+    margin-left: 10px;
+}
+button{
+    width: 93px;
+    height: 35px;
+    margin-top: 40px;
+    margin-right: 40px;
+    border-radius: 6px;
+    color: white;
+    background: #00623B;
+}
+.text{
+    text-align: center;
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 1px;
+}
+.Coffe{
+    color: #00623B;
+    font-size: 90px;
+}
+.Mood{
+    color: #ffff;
+    font-size: 90px;
+
+}
+.images{
+    text-align: center;
+    position: absolute;
+    top: 398px;
+    left: 380px;
+}
